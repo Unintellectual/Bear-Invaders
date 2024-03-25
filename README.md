@@ -17,6 +17,7 @@ Make sure to install [git](https://git-scm.com/downloads) and [python](https://w
     $ git clone https://github.com/Unintellectual/Bear-Invaders.git
     $ cd Bear-Invaders
     $ pip install -r requirements.txt
+      python project.py
 
 
 
