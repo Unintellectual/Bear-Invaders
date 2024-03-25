@@ -14,10 +14,10 @@ This is my version of Space Invaders using pygame but I'll be using bears instea
 Make sure to install [git](https://git-scm.com/downloads) and [python](https://www.python.org/downloads/). Enjoy!!
 
 ## To Play
-    $ git clone https://github.com/Unintellectual/Bear-Invaders.git
-    $ cd Bear-Invaders
-    $ pip install -r requirements.txt
-      python project.py
+     git clone https://github.com/Unintellectual/Bear-Invaders.git
+     cd Bear-Invaders
+     pip install -r requirements.txt
+     python project.py
 
 
 
